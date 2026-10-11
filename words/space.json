@@ -1,0 +1,606 @@
+{
+  "theme": "space",
+  "title": "Space",
+  "entries": [
+    {
+      "prompt": "Moon",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Sun",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Star",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Comet",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Asteroid",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Meteor",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Galaxy",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Nebula",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Planet",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Mars",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Saturn",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Jupiter",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Venus",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Mercury",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Neptune",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Uranus",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Pluto",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Earth",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Black Hole",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Solar Eclipse",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Lunar Eclipse",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Aurora",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Shooting Star",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Constellation",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Milky Way",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Supernova",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Moon Crater",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Ring of Saturn",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Twin Star",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Red Giant",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Rocket",
+      "category": "Objects",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Spaceship",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Satellite",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Telescope",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Astronaut Helmet",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Suit",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Lunar Rover",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Station",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Solar Panel",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Antenna",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Control Panel",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Thruster",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Fuel Tank",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Parachute",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Orbital Module",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Capsule",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Launch Pad",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Robotic Arm",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Moon Base",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Weather Satellite",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Star Chart",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Compass",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Rocket Engine",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Mission Patch",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Glove",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Astronaut",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Cosmonaut",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Mission Control",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Scientist",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Engineer",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Tourist",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Rocket Scientist",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Ground Crew",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Flight Director",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Explorer",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Physicist",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Astronomer",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Pilot",
+      "category": "People",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Navigator",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Robot Helper",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Doctor",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Payload Specialist",
+      "category": "People",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Launch",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Dock",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Orbit",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Land",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Float",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Drift",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Deploy",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Navigate",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Signal",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Collect",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Observe",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Teleport",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Zoom",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Repair",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Explore",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Detect",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Eject",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "prompt": "Decelerate",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Re-enter",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Broadcast",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Orbital Lab",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Deep Space",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Lagrange Point",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Spaceport",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Observatory",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Mars Colony",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Asteroid Belt",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Kuiper Belt",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Elevator",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Rocket Museum",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Test Range",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Tracking Station",
+      "category": "Places",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Gravity",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Zero Gravity",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Light Year",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Momentum",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Velocity",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Orbit Path",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Time Dilation",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Cosmic Dust",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Dark Matter",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Radio Signal",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Space Debris",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "Deep Space Silence",
+      "category": "Abstract",
+      "difficulty": "medium"
+    },
+    {
+      "prompt": "The Final Frontier",
+      "category": "Abstract",
+      "difficulty": "medium"
+    }
+  ],
+  "generated_at": "2026-10-11T21:08:56+00:00",
+  "counts": {
+    "easy": 29,
+    "medium": 88,
+    "hard": 0,
+    "total": 117
+  },
+  "warnings": {
+    "low_categories": {
+      "People": 17,
+      "Places": 12,
+      "Abstract": 13
+    },
+    "filtered": 0
+  }
+}

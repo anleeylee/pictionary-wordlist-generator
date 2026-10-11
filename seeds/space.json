@@ -1,0 +1,45 @@
+{
+  "theme": "space",
+  "title": "Space",
+  "categories": {
+    "Nature": [
+      "Moon", "Sun", "Star", "Comet", "Asteroid", "Meteor", "Galaxy",
+      "Nebula", "Planet", "Mars", "Saturn", "Jupiter", "Venus",
+      "Mercury", "Neptune", "Uranus", "Pluto", "Earth", "Black Hole",
+      "Solar Eclipse", "Lunar Eclipse", "Aurora", "Shooting Star",
+      "Constellation", "Milky Way", "Supernova", "Moon Crater",
+      "Ring of Saturn", "Twin Star", "Red Giant"
+    ],
+    "Objects": [
+      "Rocket", "Spaceship", "Satellite", "Telescope", "Astronaut Helmet",
+      "Space Suit", "Lunar Rover", "Space Station", "Solar Panel",
+      "Antenna", "Control Panel", "Thruster", "Fuel Tank", "Parachute",
+      "Orbital Module", "Space Capsule", "Launch Pad", "Robotic Arm",
+      "Moon Base", "Weather Satellite", "Star Chart", "Compass",
+      "Rocket Engine", "Mission Patch", "Space Glove"
+    ],
+    "People": [
+      "Astronaut", "Cosmonaut", "Mission Control", "Scientist", "Engineer",
+      "Space Tourist", "Rocket Scientist", "Ground Crew", "Flight Director",
+      "Space Explorer", "Physicist", "Astronomer", "Pilot", "Navigator",
+      "Robot Helper", "Space Doctor", "Payload Specialist"
+    ],
+    "Actions": [
+      "Launch", "Dock", "Orbit", "Land", "Float", "Drift", "Deploy",
+      "Navigate", "Signal", "Collect", "Observe", "Teleport", "Zoom",
+      "Repair", "Explore", "Detect", "Eject", "Decelerate", "Re-enter",
+      "Broadcast"
+    ],
+    "Places": [
+      "Launch Pad", "Space Station", "Moon Base", "Mission Control",
+      "Orbital Lab", "Deep Space", "Lagrange Point", "Spaceport",
+      "Observatory", "Mars Colony", "Asteroid Belt", "Kuiper Belt",
+      "Space Elevator", "Rocket Museum", "Test Range", "Tracking Station"
+    ],
+    "Abstract": [
+      "Gravity", "Zero Gravity", "Light Year", "Momentum", "Velocity",
+      "Orbit Path", "Time Dilation", "Cosmic Dust", "Dark Matter",
+      "Radio Signal", "Space Debris", "Deep Space Silence", "The Final Frontier"
+    ]
+  }
+}
